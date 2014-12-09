@@ -1,11 +1,9 @@
-
 <html>
 <head>
 
 </head>
 <body>
-
-     <h1>Product Details</h1>
+<h1>Product Details</h1>
 <form action="product_controller/save" method="post">
     <table border="2"><tr>
             <td><label>PRODUCT ID</label></td>
